@@ -1,0 +1,35 @@
+{
+  "name": "@alvis.finance/tokenlists",
+  "license": "MIT",
+  "version": "0.2.0",
+  "description": "The Alvis Finance default token list",
+  "main": "tokenlist-bsc.json",
+  "files": [
+    "tokenlist-bsc.json",
+    "tokenlist-polygon.json",
+    "tokenlist-avax.json"
+  ],
+  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alvis-Finance/tokenlists.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Alvis-Finance/tokenlists/issues"
+  },
+  "keywords": [
+    "alvis",
+    "bnb",
+    "bsc",
+    "bep20",
+    "avax",
+    "ava labs",
+    "ava20",
+    "huobi",
+    "heco",
+    "hrc20",
+    "default",
+    "token",
+    "list"
+  ]
+}
